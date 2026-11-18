@@ -1,0 +1,1375 @@
+[
+  {
+    "id": "ak-74",
+    "name": "AK-74",
+    "category": "Small arms",
+    "type": "Assault rifle",
+    "origin": "Soviet Union",
+    "manufacturer": "Izhmash / Soviet defense industry",
+    "caliber": "5.45×39mm",
+    "introduced": "1974",
+    "usedBy": [
+      "Russia",
+      "Ukraine"
+    ],
+    "summary": "A Soviet-designed assault rifle widely present in post-Soviet inventories and documented on both sides of the war.",
+    "specs": {
+      "Action": "Gas-operated, rotating bolt",
+      "Feed": "Detachable box magazine",
+      "Cartridge": "5.45×39mm",
+      "Era": "1970s–present"
+    },
+    "components": [
+      "Upper receiver and cover",
+      "Barrel assembly",
+      "Gas system",
+      "Bolt carrier group",
+      "Recoil assembly",
+      "Fire-control group",
+      "Stock and handguard",
+      "Magazine"
+    ],
+    "sources": [
+      "https://modernfirearms.net/en/assault-rifles/ak-74-eng/"
+    ]
+  },
+  {
+    "id": "ak-12",
+    "name": "AK-12",
+    "category": "Small arms",
+    "type": "Assault rifle",
+    "origin": "Russia",
+    "manufacturer": "Kalashnikov Concern",
+    "caliber": "5.45×39mm",
+    "introduced": "2018",
+    "usedBy": [
+      "Russia"
+    ],
+    "summary": "A modernized Kalashnikov-pattern service rifle adopted by Russian forces, with updated furniture and accessory interfaces.",
+    "specs": {
+      "Action": "Gas-operated, rotating bolt",
+      "Feed": "Detachable box magazine",
+      "Cartridge": "5.45×39mm",
+      "Era": "2010s–present"
+    },
+    "components": [
+      "Receiver assembly",
+      "Barrel and muzzle device",
+      "Gas system",
+      "Bolt carrier group",
+      "Recoil assembly",
+      "Fire-control group",
+      "Handguard and rail system",
+      "Magazine"
+    ],
+    "sources": [
+      "https://modernfirearms.net/en/assault-rifles/russia-assault-rifles/ak-12-eng/"
+    ]
+  },
+  {
+    "id": "m4a1",
+    "name": "M4A1",
+    "category": "Small arms",
+    "type": "Carbine",
+    "origin": "United States",
+    "manufacturer": "U.S. Government / licensed manufacturers",
+    "caliber": "5.56×45mm NATO",
+    "introduced": "1994",
+    "usedBy": [
+      "Ukraine"
+    ],
+    "summary": "A compact, selective-fire derivative of the M16 family supplied to and documented with Ukrainian units.",
+    "specs": {
+      "Action": "Gas-operated, rotating bolt",
+      "Feed": "Detachable box magazine",
+      "Cartridge": "5.56×45mm NATO",
+      "Era": "1990s–present"
+    },
+    "components": [
+      "Upper receiver",
+      "Barrel assembly",
+      "Gas system",
+      "Bolt carrier group",
+      "Lower receiver",
+      "Fire-control group",
+      "Buffer assembly",
+      "Stock and magazine"
+    ],
+    "sources": [
+      "https://www.colt.com/"
+    ]
+  },
+  {
+    "id": "fn-scar-h",
+    "name": "FN SCAR-H",
+    "category": "Small arms",
+    "type": "Battle rifle",
+    "origin": "Belgium",
+    "manufacturer": "FN Herstal",
+    "caliber": "7.62×51mm NATO",
+    "introduced": "2009",
+    "usedBy": [
+      "Ukraine"
+    ],
+    "summary": "A modular 7.62mm battle rifle family publicly documented in Ukrainian service.",
+    "specs": {
+      "Action": "Gas-operated, rotating bolt",
+      "Feed": "Detachable box magazine",
+      "Cartridge": "7.62×51mm NATO",
+      "Era": "2000s–present"
+    },
+    "components": [
+      "Upper receiver",
+      "Barrel module",
+      "Gas system",
+      "Bolt carrier group",
+      "Lower receiver",
+      "Fire-control module",
+      "Stock assembly",
+      "Magazine"
+    ],
+    "sources": [
+      "https://fnherstal.com/en/defence/portable-weapons/"
+    ]
+  },
+  {
+    "id": "pkm",
+    "name": "PKM",
+    "category": "Small arms",
+    "type": "General-purpose machine gun",
+    "origin": "Soviet Union",
+    "manufacturer": "Soviet defense industry",
+    "caliber": "7.62×54mmR",
+    "introduced": "1969",
+    "usedBy": [
+      "Russia",
+      "Ukraine"
+    ],
+    "summary": "A widely distributed belt-fed general-purpose machine gun inherited from Soviet stocks and used by both sides.",
+    "specs": {
+      "Action": "Gas-operated",
+      "Feed": "Belt-fed",
+      "Cartridge": "7.62×54mmR",
+      "Era": "1960s–present"
+    },
+    "components": [
+      "Receiver group",
+      "Barrel assembly",
+      "Gas system",
+      "Bolt group",
+      "Feed cover and mechanism",
+      "Trigger group",
+      "Stock and grip",
+      "Bipod"
+    ],
+    "sources": [
+      "https://modernfirearms.net/en/machineguns/russia-machineguns/pkm-pks-eng/"
+    ]
+  },
+  {
+    "id": "m2-browning",
+    "name": "M2-browning",
+    "category": "Small arms",
+    "type": "Heavy machine gun",
+    "origin": "United States",
+    "manufacturer": "U.S. defense industry",
+    "caliber": "12.7×99mm NATO",
+    "introduced": "1933",
+    "usedBy": [
+      "Ukraine"
+    ],
+    "summary": "A long-serving heavy machine gun supplied in multiple configurations, including vehicle and fixed mounts.",
+    "specs": {
+      "Action": "Recoil-operated",
+      "Feed": "Disintegrating-link belt",
+      "Cartridge": "12.7×99mm NATO",
+      "Era": "1930s–present"
+    },
+    "components": [
+      "Receiver",
+      "Barrel assembly",
+      "Recoil buffer",
+      "Bolt group",
+      "Feed mechanism",
+      "Fire-control components",
+      "Mount and cradle",
+      "Ammunition belt"
+    ],
+    "sources": [
+      "https://www.browning.com/products/firearms/machine-guns.html"
+    ]
+  },
+  {
+    "id": "javelin",
+    "name": "FGM-148 Javelin",
+    "category": "Anti-armor",
+    "type": "Man-portable guided missile",
+    "origin": "United States",
+    "manufacturer": "Raytheon / Lockheed Martin",
+    "caliber": "127mm missile",
+    "introduced": "1996",
+    "usedBy": [
+      "Ukraine"
+    ],
+    "summary": "A fire-and-forget anti-armor missile system supplied to Ukraine. Public sources describe its broad system architecture and guidance concept.",
+    "specs": {
+      "Guidance": "Imaging infrared seeker",
+      "Launch system": "Reusable command launch unit plus disposable missile round",
+      "Role": "Anti-armor",
+      "Era": "1990s–present"
+    },
+    "components": [
+      "Command launch unit",
+      "Missile canister",
+      "Imaging seeker section",
+      "Guidance electronics",
+      "Flight-control section",
+      "Warhead section",
+      "Propulsion section"
+    ],
+    "sources": [
+      "https://www.lockheedmartin.com/en-us/products/javelin.html",
+      "https://www.raytheon.com/what-we-do/land/javelin"
+    ]
+  },
+  {
+    "id": "n-law",
+    "name": "NLAW",
+    "category": "Anti-armor",
+    "type": "Light anti-tank weapon",
+    "origin": "Sweden / United Kingdom",
+    "manufacturer": "Saab / Thales",
+    "caliber": "150mm class",
+    "introduced": "2009",
+    "usedBy": [
+      "Ukraine"
+    ],
+    "summary": "A disposable short-range anti-armor weapon supplied to Ukraine. This profile focuses on public system-level identification.",
+    "specs": {
+      "Guidance": "Predicted line-of-sight guidance",
+      "Role": "Anti-armor",
+      "Launcher": "Disposable, shoulder-fired",
+      "Era": "2000s–present"
+    },
+    "components": [
+      "Launch tube",
+      "Optical sight unit",
+      "Guidance electronics",
+      "Warhead section",
+      "Rocket motor section",
+      "Safety and control interfaces"
+    ],
+    "sources": [
+      "https://www.saab.com/products/nlaw"
+    ]
+  },
+  {
+    "id": "stugna-p",
+    "name": "Stugna-P",
+    "category": "Anti-armor",
+    "type": "Guided anti-tank missile system",
+    "origin": "Ukraine",
+    "manufacturer": "Luch Design Bureau",
+    "caliber": "152mm / 130mm missile variants",
+    "introduced": "2011",
+    "usedBy": [
+      "Ukraine"
+    ],
+    "summary": "A Ukrainian remotely operated anti-tank guided missile system. Public descriptions emphasize its launch unit, control panel and missile family.",
+    "specs": {
+      "Guidance": "Laser beam-riding",
+      "Role": "Anti-armor",
+      "System": "Remote control station and launcher",
+      "Era": "2010s–present"
+    },
+    "components": [
+      "Remote control panel",
+      "Optical guidance unit",
+      "Launcher assembly",
+      "Missile airframe",
+      "Guidance section",
+      "Warhead section",
+      "Propulsion section"
+    ],
+    "sources": [
+      "https://www.luch.kiev.ua/en/"
+    ]
+  },
+  {
+    "id": "himars",
+    "name": "M142 HIMARS",
+    "category": "Artillery & rockets",
+    "type": "Rocket artillery system",
+    "origin": "United States",
+    "manufacturer": "Lockheed Martin",
+    "caliber": "227mm GMLRS family; other compatible munitions",
+    "introduced": "2005",
+    "usedBy": [
+      "Ukraine"
+    ],
+    "summary": "A wheeled multiple-launch rocket system supplied to Ukraine. Publicly documented as a launcher vehicle paired with modular rocket pods.",
+    "specs": {
+      "Chassis": "6×6 wheeled truck",
+      "Launcher": "One six-round GMLRS pod or compatible munition pod",
+      "Role": "Rocket artillery",
+      "Era": "2000s–present"
+    },
+    "components": [
+      "Vehicle chassis and cab",
+      "Launcher module",
+      "Pod interface",
+      "Fire-control electronics",
+      "Navigation unit",
+      "Stabilization system",
+      "Rocket pod / munition container"
+    ],
+    "sources": [
+      "https://www.lockheedmartin.com/en-us/products/himars.html"
+    ]
+  },
+  {
+    "id": "m777",
+    "name": "M777",
+    "category": "Artillery & rockets",
+    "type": "Towed howitzer",
+    "origin": "United Kingdom / United States",
+    "manufacturer": "BAE Systems",
+    "caliber": "155mm",
+    "introduced": "2005",
+    "usedBy": [
+      "Ukraine"
+    ],
+    "summary": "A lightweight towed 155mm howitzer supplied to Ukraine and documented in conventional artillery service.",
+    "specs": {
+      "Caliber": "155mm",
+      "Platform": "Towed artillery",
+      "Construction": "Titanium-intensive lightweight design",
+      "Era": "2000s–present"
+    },
+    "components": [
+      "Barrel and breech assembly",
+      "Recoil system",
+      "Cradle and elevating assembly",
+      "Carriage structure",
+      "Trail assemblies",
+      "Aiming and sighting equipment",
+      "Wheels and towing interface"
+    ],
+    "sources": [
+      "https://www.baesystems.com/en/product/m777"
+    ]
+  },
+  {
+    "id": "pzh-2000",
+    "name": "PzH 2000",
+    "category": "Artillery & rockets",
+    "type": "Self-propelled howitzer",
+    "origin": "Germany",
+    "manufacturer": "KMW / Rheinmetall",
+    "caliber": "155mm",
+    "introduced": "1998",
+    "usedBy": [
+      "Ukraine"
+    ],
+    "summary": "A tracked 155mm self-propelled howitzer transferred to Ukraine by several European partners.",
+    "specs": {
+      "Caliber": "155mm",
+      "Chassis": "Tracked armored vehicle",
+      "Role": "Self-propelled artillery",
+      "Era": "1990s–present"
+    },
+    "components": [
+      "Tracked chassis",
+      "Turret structure",
+      "Gun and breech assembly",
+      "Recoil system",
+      "Autoloader subsystem",
+      "Fire-control suite",
+      "Powerpack"
+    ],
+    "sources": [
+      "https://www.rheinmetall.com/en/products/weapon-systems"
+    ]
+  },
+  {
+    "id": "caesar",
+    "name": "CAESAR",
+    "category": "Artillery & rockets",
+    "type": "Truck-mounted howitzer",
+    "origin": "France",
+    "manufacturer": "KNDS France",
+    "caliber": "155mm",
+    "introduced": "2008",
+    "usedBy": [
+      "Ukraine"
+    ],
+    "summary": "A truck-mounted 155mm artillery system supplied to Ukraine, combining a wheeled chassis and artillery module.",
+    "specs": {
+      "Caliber": "155mm",
+      "Platform": "6×6 or 8×8 truck chassis",
+      "Role": "Self-propelled artillery",
+      "Era": "2000s–present"
+    },
+    "components": [
+      "Truck chassis",
+      "Gun and breech assembly",
+      "Recoil system",
+      "Cradle and support structure",
+      "Fire-control system",
+      "Navigation suite",
+      "Ammunition handling equipment"
+    ],
+    "sources": [
+      "https://www.knds.fr/en/our-products"
+    ]
+  },
+  {
+    "id": "t-72",
+    "name": "T-72",
+    "category": "Armored vehicles",
+    "type": "Main battle tank",
+    "origin": "Soviet Union",
+    "manufacturer": "Soviet / successor-state industry",
+    "caliber": "125mm smoothbore main gun",
+    "introduced": "1973",
+    "usedBy": [
+      "Russia",
+      "Ukraine"
+    ],
+    "summary": "A Soviet-designed main battle tank family used extensively by both countries, with numerous national upgrades and variants.",
+    "specs": {
+      "Crew": "3",
+      "Main armament": "125mm smoothbore gun (variant dependent)",
+      "Propulsion": "Tracked diesel powerpack",
+      "Era": "1970s–present"
+    },
+    "components": [
+      "Hull and armor structure",
+      "Turret assembly",
+      "Main gun and breech",
+      "Fire-control and sighting suite",
+      "Engine and transmission",
+      "Track and suspension system",
+      "Communications suite"
+    ],
+    "sources": [
+      "https://www.militarytoday.com/tanks/t72.htm"
+    ]
+  },
+  {
+    "id": "t-90m",
+    "name": "T-90M Proryv",
+    "category": "Armored vehicles",
+    "type": "Main battle tank",
+    "origin": "Russia",
+    "manufacturer": "Uralvagonzavod",
+    "caliber": "125mm smoothbore main gun",
+    "introduced": "2010s",
+    "usedBy": [
+      "Russia"
+    ],
+    "summary": "A modernized Russian T-90 variant documented in the invasion, incorporating updated protection, sights and electronics.",
+    "specs": {
+      "Crew": "3",
+      "Main armament": "125mm smoothbore gun",
+      "Propulsion": "Tracked diesel powerpack",
+      "Era": "2010s–present"
+    },
+    "components": [
+      "Hull and armor modules",
+      "Turret assembly",
+      "Main gun system",
+      "Optical and thermal sights",
+      "Engine and transmission",
+      "Track and suspension",
+      "Electronic protection suite"
+    ],
+    "sources": [
+      "https://roe.ru/eng/catalog/land-forces/"
+    ]
+  },
+  {
+    "id": "leopard-2",
+    "name": "Leopard 2",
+    "category": "Armored vehicles",
+    "type": "Main battle tank",
+    "origin": "Germany",
+    "manufacturer": "KNDS Deutschland / legacy Krauss-Maffei Wegmann",
+    "caliber": "120mm smoothbore main gun",
+    "introduced": "1979",
+    "usedBy": [
+      "Ukraine"
+    ],
+    "summary": "A German-designed main battle tank family supplied to Ukraine in several variants by European partners.",
+    "specs": {
+      "Crew": "4",
+      "Main armament": "120mm smoothbore gun",
+      "Propulsion": "Tracked multi-fuel powerpack",
+      "Era": "1970s–present"
+    },
+    "components": [
+      "Hull and modular armor",
+      "Turret assembly",
+      "Main gun and breech",
+      "Fire-control and thermal sights",
+      "Powerpack",
+      "Track and suspension",
+      "Communications and navigation"
+    ],
+    "sources": [
+      "https://www.knds.de/en/systems-products/tracked-vehicles/main-battle-tank/leopard-2/"
+    ]
+  },
+  {
+    "id": "bradley",
+    "name": "M2-bradley",
+    "category": "Armored vehicles",
+    "type": "Infantry fighting vehicle",
+    "origin": "United States",
+    "manufacturer": "BAE Systems",
+    "caliber": "25mm autocannon; TOW launcher on applicable variants",
+    "introduced": "1981",
+    "usedBy": [
+      "Ukraine"
+    ],
+    "summary": "A tracked infantry fighting vehicle supplied to Ukraine, combining protected troop transport with a turreted weapon system.",
+    "specs": {
+      "Crew": "3 plus dismount capacity",
+      "Main armament": "25mm autocannon",
+      "Platform": "Tracked IFV",
+      "Era": "1980s–present"
+    },
+    "components": [
+      "Hull and armor package",
+      "Turret assembly",
+      "Autocannon system",
+      "Optics and fire-control",
+      "Powerpack",
+      "Track and suspension",
+      "Dismount compartment"
+    ],
+    "sources": [
+      "https://www.baesystems.com/en/product/m2-bradley"
+    ]
+  },
+  {
+    "id": "bmp-2",
+    "name": "BMP-2",
+    "category": "Armored vehicles",
+    "type": "Infantry fighting vehicle",
+    "origin": "Soviet Union",
+    "manufacturer": "Soviet defense industry",
+    "caliber": "30mm autocannon",
+    "introduced": "1980",
+    "usedBy": [
+      "Russia",
+      "Ukraine"
+    ],
+    "summary": "A Soviet tracked infantry fighting vehicle widely fielded by both sides and present in many upgraded configurations.",
+    "specs": {
+      "Crew": "3 plus dismount capacity",
+      "Main armament": "30mm autocannon",
+      "Platform": "Tracked IFV",
+      "Era": "1980s–present"
+    },
+    "components": [
+      "Hull structure",
+      "Two-person turret",
+      "Autocannon and coaxial armament",
+      "Optics and sights",
+      "Engine and transmission",
+      "Track and suspension",
+      "Troop compartment"
+    ],
+    "sources": [
+      "https://www.militarytoday.com/apc/bmp_2.htm"
+    ]
+  },
+  {
+    "id": "su-27",
+    "name": "Su-27 Flanker",
+    "category": "Aircraft",
+    "type": "Air-superiority fighter",
+    "origin": "Soviet Union",
+    "manufacturer": "Sukhoi",
+    "caliber": "Aircraft cannon and external stores (variant dependent)",
+    "introduced": "1985",
+    "usedBy": [
+      "Russia",
+      "Ukraine"
+    ],
+    "summary": "A twin-engine fighter aircraft family operated by both countries, with multiple modernized variants.",
+    "specs": {
+      "Crew": "1 (baseline variant)",
+      "Propulsion": "Twin turbofan engines",
+      "Role": "Air superiority / multirole variants",
+      "Era": "1980s–present"
+    },
+    "components": [
+      "Fuselage and wing structure",
+      "Cockpit and avionics",
+      "Twin engine nacelles",
+      "Flight-control surfaces",
+      "Landing gear",
+      "Radar and sensor suite",
+      "External stores stations"
+    ],
+    "sources": [
+      "https://www.uacrussia.ru/en/aircraft/lineup/military/su-27/"
+    ]
+  },
+  {
+    "id": "mig-29",
+    "name": "MiG-29 Fulcrum",
+    "category": "Aircraft",
+    "type": "Multirole fighter",
+    "origin": "Soviet Union",
+    "manufacturer": "Mikoyan",
+    "caliber": "Aircraft cannon and external stores (variant dependent)",
+    "introduced": "1983",
+    "usedBy": [
+      "Russia",
+      "Ukraine"
+    ],
+    "summary": "A Soviet-designed twin-engine fighter used by Ukraine and Russia, with upgrades and adapted mission roles.",
+    "specs": {
+      "Crew": "1 (baseline variant)",
+      "Propulsion": "Twin turbofan engines",
+      "Role": "Fighter / multirole",
+      "Era": "1980s–present"
+    },
+    "components": [
+      "Fuselage and wing structure",
+      "Cockpit and avionics",
+      "Twin engine nacelles",
+      "Air intakes",
+      "Flight-control surfaces",
+      "Radar and sensor suite",
+      "Landing gear"
+    ],
+    "sources": [
+      "https://www.uacrussia.ru/en/aircraft/lineup/military/mig-29/"
+    ]
+  },
+  {
+    "id": "su-34",
+    "name": "Su-34 Fullback",
+    "category": "Aircraft",
+    "type": "Strike fighter",
+    "origin": "Russia",
+    "manufacturer": "Sukhoi",
+    "caliber": "Aircraft cannon and external stores (variant dependent)",
+    "introduced": "2014",
+    "usedBy": [
+      "Russia"
+    ],
+    "summary": "A twin-engine strike aircraft used by Russian forces, with side-by-side crew seating and a broad sensor suite.",
+    "specs": {
+      "Crew": "2",
+      "Propulsion": "Twin turbofan engines",
+      "Role": "Strike / tactical bomber",
+      "Era": "2010s–present"
+    },
+    "components": [
+      "Fuselage and lifting surfaces",
+      "Armored cockpit",
+      "Twin engine nacelles",
+      "Radar and electro-optical suite",
+      "Flight-control surfaces",
+      "Landing gear",
+      "External stores stations"
+    ],
+    "sources": [
+      "https://www.uacrussia.ru/en/aircraft/lineup/military/su-34/"
+    ]
+  },
+  {
+    "id": "shahed-136",
+    "name": "Shahed-136 / Geran-2",
+    "category": "Uncrewed systems",
+    "type": "One-way attack UAV",
+    "origin": "Iran (design); Russian production variants",
+    "manufacturer": "HESA / Russian production entities",
+    "caliber": "N/A",
+    "introduced": "2021",
+    "usedBy": [
+      "Russia"
+    ],
+    "summary": "A long-range delta-wing one-way attack UAV used extensively by Russia. Public reporting documents multiple production and component variants.",
+    "specs": {
+      "Configuration": "Delta-wing pusher-prop UAV",
+      "Propulsion": "Piston engine and propeller",
+      "Navigation": "Publicly reported satellite/inertial navigation variants",
+      "Role": "One-way attack UAV"
+    },
+    "components": [
+      "Composite airframe",
+      "Nose section and payload bay",
+      "Navigation and avionics bay",
+      "Engine and propeller assembly",
+      "Fuel system",
+      "Electrical system",
+      "Wings and control surfaces"
+    ],
+    "sources": [
+      "https://www.iiss.org/online-analysis/military-balance/2023/02/iranian-drones-in-ukraine/"
+    ]
+  },
+  {
+    "id": "lancet",
+    "name": "Lancet",
+    "category": "Uncrewed systems",
+    "type": "Loitering munition",
+    "origin": "Russia",
+    "manufacturer": "ZALA Aero",
+    "caliber": "N/A",
+    "introduced": "2019",
+    "usedBy": [
+      "Russia"
+    ],
+    "summary": "A Russian loitering munition family documented in the war, with several airframe and payload variants.",
+    "specs": {
+      "Configuration": "Cross-shaped wing / tail surfaces (variant dependent)",
+      "Propulsion": "Electric motor",
+      "Guidance": "Publicly reported electro-optical and navigation systems",
+      "Role": "Loitering munition"
+    },
+    "components": [
+      "Airframe and lifting surfaces",
+      "Electro-optical sensor section",
+      "Avionics bay",
+      "Electric propulsion unit",
+      "Power system",
+      "Payload section",
+      "Control surfaces"
+    ],
+    "sources": [
+      "https://zala-aero.com/en/"
+    ]
+  },
+  {
+    "id": "fpv-uav",
+    "name": "FPV quadcopter",
+    "category": "Uncrewed systems",
+    "type": "First-person-view multirotor UAV",
+    "origin": "Multiple countries / field-assembled variants",
+    "manufacturer": "Multiple commercial and defense suppliers",
+    "caliber": "N/A",
+    "introduced": "Widespread combat use from 2022–23",
+    "usedBy": [
+      "Russia",
+      "Ukraine"
+    ],
+    "summary": "A broad class of small multirotor UAVs adapted for battlefield observation and, in some cases, attack roles. Configurations vary widely.",
+    "specs": {
+      "Configuration": "Multirotor",
+      "Propulsion": "Electric motors",
+      "Control": "Radio link / onboard flight controller",
+      "Role": "Reconnaissance and other documented battlefield roles"
+    },
+    "components": [
+      "Frame and arms",
+      "Brushless motors",
+      "Propellers",
+      "Flight controller",
+      "Power distribution and battery",
+      "Camera and video transmitter",
+      "Radio receiver and antennas"
+    ],
+    "sources": [
+      "https://www.rusi.org/explore-our-research/publications/commentary/return-industrial-warfare"
+    ]
+  },
+  {
+    "id": "orlan-10",
+    "name": "Orlan-10",
+    "category": "Uncrewed systems",
+    "type": "Reconnaissance UAV",
+    "origin": "Russia",
+    "manufacturer": "Special Technology Center",
+    "caliber": "N/A",
+    "introduced": "2010",
+    "usedBy": [
+      "Russia"
+    ],
+    "summary": "A Russian fixed-wing reconnaissance UAV used for surveillance and artillery-support functions; this profile remains at public, non-operational system level.",
+    "specs": {
+      "Configuration": "Fixed-wing catapult-launched UAV",
+      "Propulsion": "Small combustion engine",
+      "Recovery": "Parachute (reported configuration)",
+      "Role": "Reconnaissance"
+    },
+    "components": [
+      "Fuselage and wing assembly",
+      "Sensor payload bay",
+      "Avionics and navigation bay",
+      "Engine and propeller",
+      "Fuel system",
+      "Data-link equipment",
+      "Recovery system"
+    ],
+    "sources": [
+      "https://www.rusi.org/explore-our-research/publications/special-resources/ukraine-russia-war"
+    ]
+  },
+  {
+    "id": "krasukha-4",
+    "name": "Krasukha-4",
+    "category": "Electronic warfare",
+    "type": "Electronic warfare system",
+    "origin": "Russia",
+    "manufacturer": "KRET",
+    "caliber": "N/A",
+    "introduced": "2012",
+    "usedBy": [
+      "Russia"
+    ],
+    "summary": "A mobile Russian electronic-warfare system publicly described as a radar-jamming platform. Detailed performance claims vary by source.",
+    "specs": {
+      "Platform": "Mobile vehicle-mounted system",
+      "Role": "Electronic warfare",
+      "Subsystems": "Antenna arrays, electronics and operator stations",
+      "Era": "2010s–present"
+    },
+    "components": [
+      "Vehicle platform",
+      "Antenna array assemblies",
+      "RF electronics modules",
+      "Operator cabin",
+      "Power generation and distribution",
+      "Cooling subsystem",
+      "Communications suite"
+    ],
+    "sources": [
+      "https://rostec.ru/en/"
+    ]
+  },
+  {
+    "id": "patriot",
+    "name": "MIM-104 Patriot",
+    "category": "Air defense & missiles",
+    "type": "Ground-based air-defense system",
+    "origin": "United States",
+    "manufacturer": "Raytheon / Lockheed Martin",
+    "caliber": "Interceptor family dependent",
+    "introduced": "1984",
+    "usedBy": [
+      "Ukraine"
+    ],
+    "summary": "A layered air-defense system supplied to Ukraine. Public system descriptions identify radar, engagement control, launchers and interceptor families.",
+    "specs": {
+      "System": "Radar, control station, launchers and interceptors",
+      "Role": "Air and missile defense",
+      "Mobility": "Road-mobile components",
+      "Era": "1980s–present"
+    },
+    "components": [
+      "Radar set",
+      "Engagement control station",
+      "Power generation unit",
+      "Launcher stations",
+      "Communications equipment",
+      "Interceptor missile",
+      "Support vehicles"
+    ],
+    "sources": [
+      "https://www.rtx.com/raytheon/what-we-do/integrated-air-and-missile-defense/patriot"
+    ]
+  },
+  {
+    "id": "iris-t-sls",
+    "name": "IRIS-T SLM",
+    "category": "Air defense & missiles",
+    "type": "Medium-range air-defense system",
+    "origin": "Germany",
+    "manufacturer": "Diehl Defence",
+    "caliber": "Interceptor family dependent",
+    "introduced": "2022 operational deployment",
+    "usedBy": [
+      "Ukraine"
+    ],
+    "summary": "A German air-defense system deployed by Ukraine, built around a multifunction radar, tactical operations center, launchers and guided missiles.",
+    "specs": {
+      "System": "Radar, command post, launchers and interceptors",
+      "Role": "Air defense",
+      "Missile": "IRIS-T family",
+      "Era": "2020s–present"
+    },
+    "components": [
+      "Multifunction radar",
+      "Tactical operations center",
+      "Launcher vehicle",
+      "Interceptor missile",
+      "Power and support vehicles",
+      "Communications network"
+    ],
+    "sources": [
+      "https://www.diehl.com/defence/en/products/air-defence-systems/iris-t-slm/"
+    ]
+  },
+  {
+    "id": "s-300",
+    "name": "S-300 family",
+    "category": "Air defense & missiles",
+    "type": "Surface-to-air missile system",
+    "origin": "Soviet Union",
+    "manufacturer": "Soviet / Russian defense industry",
+    "caliber": "Missile variant dependent",
+    "introduced": "1978",
+    "usedBy": [
+      "Russia",
+      "Ukraine"
+    ],
+    "summary": "A family of long-range surface-to-air missile systems operated by both countries in different variants.",
+    "specs": {
+      "System": "Radar, command and launcher elements",
+      "Role": "Air defense",
+      "Mobility": "Road-mobile",
+      "Era": "1970s–present"
+    },
+    "components": [
+      "Search radar",
+      "Engagement radar",
+      "Command post",
+      "Launcher vehicle",
+      "Missile canister",
+      "Power and support vehicles"
+    ],
+    "sources": [
+      "https://www.almaz-antey.ru/en/"
+    ]
+  },
+  {
+    "id": "kh-101",
+    "name": "Kh-101",
+    "category": "Air defense & missiles",
+    "type": "Air-launched cruise missile",
+    "origin": "Russia",
+    "manufacturer": "Raduga design bureau",
+    "caliber": "N/A",
+    "introduced": "2010s",
+    "usedBy": [
+      "Russia"
+    ],
+    "summary": "A Russian air-launched cruise missile used in strikes during the war. Publicly available descriptions cover its broad airframe, propulsion and guidance architecture.",
+    "specs": {
+      "Launch platform": "Strategic bomber aircraft",
+      "Propulsion": "Turbofan",
+      "Guidance": "Publicly reported inertial / satellite-aided navigation",
+      "Role": "Long-range cruise missile"
+    },
+    "components": [
+      "Airframe",
+      "Guidance and navigation section",
+      "Flight-control surfaces",
+      "Turbofan propulsion section",
+      "Fuel system",
+      "Warhead section",
+      "Electrical and control systems"
+    ],
+    "sources": [
+      "https://missilethreat.csis.org/missile/kh-101-kh-102/"
+    ]
+  },
+  {
+    "id": "iskander-m",
+    "name": "Iskander-M",
+    "category": "Air defense & missiles",
+    "type": "Short-range ballistic missile system",
+    "origin": "Russia",
+    "manufacturer": "KB Mashinostroyeniya",
+    "caliber": "N/A",
+    "introduced": "2006",
+    "usedBy": [
+      "Russia"
+    ],
+    "summary": "A Russian road-mobile ballistic missile system used during the invasion. Profile information is limited to publicly documented system architecture.",
+    "specs": {
+      "Platform": "Road-mobile transporter-erector-launcher",
+      "Role": "Short-range ballistic missile",
+      "Missile family": "9M723",
+      "Era": "2000s–present"
+    },
+    "components": [
+      "Transporter-erector-launcher",
+      "Missile airframe",
+      "Guidance section",
+      "Propulsion section",
+      "Payload section",
+      "Command and support vehicles"
+    ],
+    "sources": [
+      "https://missilethreat.csis.org/missile/ss-26/"
+    ]
+  },
+  {
+    "id": "stinger",
+    "name": "FIM-92 Stinger",
+    "category": "Air defense & missiles",
+    "type": "MANPADS",
+    "origin": "United States",
+    "manufacturer": "Raytheon",
+    "caliber": "Infrared-guided missile",
+    "introduced": "1981",
+    "usedBy": [
+      "Ukraine"
+    ],
+    "summary": "A shoulder-fired short-range air-defense system supplied to Ukraine.",
+    "specs": {
+      "Configuration": "MANPADS",
+      "System": "Raytheon",
+      "Role": "Air defense & missiles"
+    },
+    "components": [
+      "Launch tube",
+      "Gripstock assembly",
+      "Infrared seeker section",
+      "Guidance electronics",
+      "Rocket motor section",
+      "Warhead section"
+    ],
+    "sources": [
+      "https://www.rtx.com/raytheon/what-we-do/integrated-air-and-missile-defense/stinger"
+    ]
+  },
+  {
+    "id": "nasams",
+    "name": "NASAMS",
+    "category": "Air defense & missiles",
+    "type": "Networked air-defense system",
+    "origin": "Norway / United States",
+    "manufacturer": "Kongsberg / Raytheon",
+    "caliber": "AMRAAM-family interceptors",
+    "introduced": "1990s",
+    "usedBy": [
+      "Ukraine"
+    ],
+    "summary": "A distributed air-defense system combining sensors, command elements and missile launchers.",
+    "specs": {
+      "Configuration": "Networked air-defense system",
+      "System": "Kongsberg / Raytheon",
+      "Role": "Air defense & missiles"
+    },
+    "components": [
+      "Radar and sensor unit",
+      "Fire-distribution center",
+      "Launcher vehicle",
+      "Missile canister",
+      "Communications network",
+      "Support and power units"
+    ],
+    "sources": [
+      "https://www.kongsberg.com/kda/what-we-do/defence-and-security/integrated-air-and-missile-defence/nasams/"
+    ]
+  },
+  {
+    "id": "gepard",
+    "name": "Flakpanzer Gepard",
+    "category": "Air defense & missiles",
+    "type": "Self-propelled anti-aircraft gun",
+    "origin": "Germany",
+    "manufacturer": "Krauss-Maffei Wegmann",
+    "caliber": "Twin 35mm autocannons",
+    "introduced": "1976",
+    "usedBy": [
+      "Ukraine"
+    ],
+    "summary": "A tracked gun-based air-defense vehicle transferred to Ukraine.",
+    "specs": {
+      "Configuration": "Self-propelled anti-aircraft gun",
+      "System": "Krauss-Maffei Wegmann",
+      "Role": "Air defense & missiles"
+    },
+    "components": [
+      "Tracked chassis",
+      "Turret structure",
+      "Twin cannon assemblies",
+      "Search radar",
+      "Tracking radar",
+      "Fire-control computer",
+      "Powerpack"
+    ],
+    "sources": [
+      "https://www.knds.de/en/systems-products/tracked-vehicles/air-defence-system-gepard/"
+    ]
+  },
+  {
+    "id": "storm-shadow",
+    "name": "Storm Shadow / SCALP-EG",
+    "category": "Air defense & missiles",
+    "type": "Air-launched cruise missile",
+    "origin": "United Kingdom / France",
+    "manufacturer": "MBDA",
+    "caliber": "N/A",
+    "introduced": "2000s",
+    "usedBy": [
+      "Ukraine"
+    ],
+    "summary": "A long-range air-launched cruise missile supplied to Ukraine by partner states.",
+    "specs": {
+      "Configuration": "Air-launched cruise missile",
+      "System": "MBDA",
+      "Role": "Air defense & missiles"
+    },
+    "components": [
+      "Airframe",
+      "Navigation and guidance section",
+      "Sensor section",
+      "Turbofan propulsion",
+      "Fuel system",
+      "Payload section"
+    ],
+    "sources": [
+      "https://www.mbda-systems.com/product/storm-shadow-scalp/"
+    ]
+  },
+  {
+    "id": "atacms",
+    "name": "MGM-140 ATACMS",
+    "category": "Artillery & rockets",
+    "type": "Tactical ballistic missile",
+    "origin": "United States",
+    "manufacturer": "Lockheed Martin",
+    "caliber": "Missile family",
+    "introduced": "1991",
+    "usedBy": [
+      "Ukraine"
+    ],
+    "summary": "A family of tactical ballistic missiles launched from compatible rocket-artillery platforms.",
+    "specs": {
+      "Configuration": "Tactical ballistic missile",
+      "System": "Lockheed Martin",
+      "Role": "Artillery & rockets"
+    },
+    "components": [
+      "Missile airframe",
+      "Guidance section",
+      "Propulsion section",
+      "Payload section",
+      "Launch pod interface",
+      "Fire-control integration"
+    ],
+    "sources": [
+      "https://www.lockheedmartin.com/en-us/products/army-tactical-missile-system.html"
+    ]
+  },
+  {
+    "id": "grad",
+    "name": "BM-21 Grad",
+    "category": "Artillery & rockets",
+    "type": "Multiple rocket launcher",
+    "origin": "Soviet Union",
+    "manufacturer": "Soviet defense industry",
+    "caliber": "122mm rockets",
+    "introduced": "1963",
+    "usedBy": [
+      "Russia",
+      "Ukraine"
+    ],
+    "summary": "A ubiquitous Soviet-origin truck-mounted multiple rocket launcher fielded by both sides.",
+    "specs": {
+      "Configuration": "Multiple rocket launcher",
+      "System": "Soviet defense industry",
+      "Role": "Artillery & rockets"
+    },
+    "components": [
+      "Truck chassis",
+      "Launcher pack",
+      "Elevation and traverse assembly",
+      "Fire-control interface",
+      "Rocket family",
+      "Crew cab and support equipment"
+    ],
+    "sources": [
+      "https://www.militarytoday.com/artillery/bm_21_grad.htm"
+    ]
+  },
+  {
+    "id": "t-64",
+    "name": "T-64",
+    "category": "Armored vehicles",
+    "type": "Main battle tank",
+    "origin": "Soviet Union",
+    "manufacturer": "Malyshev Factory",
+    "caliber": "125mm smoothbore (later variants)",
+    "introduced": "1960s",
+    "usedBy": [
+      "Ukraine",
+      "Russia"
+    ],
+    "summary": "A Soviet-designed tank family historically central to Ukrainian armored forces, with multiple upgrades.",
+    "specs": {
+      "Configuration": "Main battle tank",
+      "System": "Malyshev Factory",
+      "Role": "Armored vehicles"
+    },
+    "components": [
+      "Hull and armor structure",
+      "Turret assembly",
+      "Main gun system",
+      "Optics and fire-control",
+      "Engine and transmission",
+      "Track and suspension",
+      "Autoloader subsystem"
+    ],
+    "sources": [
+      "https://www.militarytoday.com/tanks/t64.htm"
+    ]
+  },
+  {
+    "id": "challenger-2",
+    "name": "Challenger 2",
+    "category": "Armored vehicles",
+    "type": "Main battle tank",
+    "origin": "United Kingdom",
+    "manufacturer": "BAE Systems",
+    "caliber": "120mm rifled gun",
+    "introduced": "1998",
+    "usedBy": [
+      "Ukraine"
+    ],
+    "summary": "A British main battle tank supplied to Ukraine in a limited number.",
+    "specs": {
+      "Configuration": "Main battle tank",
+      "System": "BAE Systems",
+      "Role": "Armored vehicles"
+    },
+    "components": [
+      "Hull and armor package",
+      "Turret assembly",
+      "Main gun and breech",
+      "Fire-control and sighting suite",
+      "Powerpack",
+      "Track and suspension",
+      "Communications suite"
+    ],
+    "sources": [
+      "https://www.baesystems.com/en/product/challenger-2"
+    ]
+  },
+  {
+    "id": "f-16",
+    "name": "F-16 Fighting Falcon",
+    "category": "Aircraft",
+    "type": "Multirole fighter",
+    "origin": "United States",
+    "manufacturer": "Lockheed Martin",
+    "caliber": "Aircraft cannon and external stores (variant dependent)",
+    "introduced": "1978",
+    "usedBy": [
+      "Ukraine"
+    ],
+    "summary": "A multirole fighter aircraft supplied to Ukraine by European partner countries.",
+    "specs": {
+      "Configuration": "Multirole fighter",
+      "System": "Lockheed Martin",
+      "Role": "Aircraft"
+    },
+    "components": [
+      "Fuselage and wing structure",
+      "Cockpit and avionics",
+      "Turbofan engine",
+      "Radar and sensor suite",
+      "Flight-control surfaces",
+      "Landing gear",
+      "External stores stations"
+    ],
+    "sources": [
+      "https://www.lockheedmartin.com/en-us/products/f-16.html"
+    ]
+  },
+  {
+    "id": "su-25",
+    "name": "Su-25 Frogfoot",
+    "category": "Aircraft",
+    "type": "Close air-support aircraft",
+    "origin": "Soviet Union",
+    "manufacturer": "Sukhoi",
+    "caliber": "Aircraft cannon and external stores",
+    "introduced": "1981",
+    "usedBy": [
+      "Russia",
+      "Ukraine"
+    ],
+    "summary": "A rugged subsonic attack aircraft operated by both countries in multiple variants.",
+    "specs": {
+      "Configuration": "Close air-support aircraft",
+      "System": "Sukhoi",
+      "Role": "Aircraft"
+    },
+    "components": [
+      "Fuselage and wing structure",
+      "Armored cockpit",
+      "Engine nacelles",
+      "Flight-control surfaces",
+      "Landing gear",
+      "Sensor and sighting suite",
+      "External stores stations"
+    ],
+    "sources": [
+      "https://www.uacrussia.ru/en/aircraft/lineup/military/su-25/"
+    ]
+  },
+  {
+    "id": "ka-52",
+    "name": "Ka-52 Alligator",
+    "category": "Aircraft",
+    "type": "Attack / reconnaissance helicopter",
+    "origin": "Russia",
+    "manufacturer": "Kamov",
+    "caliber": "Cannon and external stores (variant dependent)",
+    "introduced": "2011",
+    "usedBy": [
+      "Russia"
+    ],
+    "summary": "A Russian coaxial-rotor attack helicopter documented in the conflict.",
+    "specs": {
+      "Configuration": "Attack / reconnaissance helicopter",
+      "System": "Kamov",
+      "Role": "Aircraft"
+    },
+    "components": [
+      "Fuselage",
+      "Coaxial rotor system",
+      "Cockpit and avionics",
+      "Engine and transmission",
+      "Landing gear",
+      "Sensor turret",
+      "External stores stations"
+    ],
+    "sources": [
+      "https://www.rhc.aero/en/"
+    ]
+  },
+  {
+    "id": "neptune",
+    "name": "R-360 Neptune",
+    "category": "Air defense & missiles",
+    "type": "Coastal / land-attack cruise missile family",
+    "origin": "Ukraine",
+    "manufacturer": "Luch Design Bureau",
+    "caliber": "N/A",
+    "introduced": "2021",
+    "usedBy": [
+      "Ukraine"
+    ],
+    "summary": "A Ukrainian cruise missile family adapted and reported in land-attack roles. Public details are limited and variants continue to evolve.",
+    "specs": {
+      "Configuration": "Coastal / land-attack cruise missile family",
+      "System": "Luch Design Bureau",
+      "Role": "Air defense & missiles"
+    },
+    "components": [
+      "Missile airframe",
+      "Guidance and navigation section",
+      "Propulsion module",
+      "Fuel system",
+      "Control surfaces",
+      "Payload section",
+      "Launcher vehicle"
+    ],
+    "sources": [
+      "https://www.luch.kiev.ua/en/"
+    ]
+  }
+]

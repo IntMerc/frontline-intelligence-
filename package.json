@@ -1,0 +1,14 @@
+{
+  "name": "frontline-intelligence",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Public-source conflict research and generalized map annotation platform",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "check": "node --check server.js && node --check public/app.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

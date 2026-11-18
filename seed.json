@@ -1,0 +1,226 @@
+{
+  "conflicts": [
+    {
+      "id": "ukraine",
+      "name": "Ukraine",
+      "region": "Eastern Europe",
+      "type": "Interstate war",
+      "status": "Active",
+      "summary": "A full-scale interstate war with major international, security, displacement, and infrastructure implications. Public reporting should be compared across independent sources.",
+      "center": [
+        48.7,
+        31.2
+      ],
+      "zoom": 5,
+      "lastReviewed": "2026-11-06",
+      "sourceStatus": "Editorial seed content",
+      "areas": [
+        {
+          "id": "ua-broad",
+          "name": "Broad conflict context",
+          "kind": "context",
+          "description": "Generalized geographic context for the conflict. This polygon is not a frontline or control boundary.",
+          "coordinates": [
+            [
+              22.1,
+              50.6
+            ],
+            [
+              24.3,
+              52.4
+            ],
+            [
+              34.2,
+              52.1
+            ],
+            [
+              39.2,
+              50.0
+            ],
+            [
+              38.5,
+              46.0
+            ],
+            [
+              33.5,
+              44.5
+            ],
+            [
+              28.0,
+              46.0
+            ]
+          ]
+        }
+      ],
+      "markers": [
+        {
+          "id": "ua-city-context",
+          "name": "Regional context marker",
+          "kind": "event",
+          "description": "Illustrative map marker. Replace with a sourced, dated public report before publication.",
+          "coordinates": [
+            37.5,
+            48.5
+          ],
+          "confidence": "Illustrative"
+        }
+      ]
+    },
+    {
+      "id": "israel-gaza",
+      "name": "Israel / Gaza",
+      "region": "Middle East",
+      "type": "Armed conflict",
+      "status": "Active",
+      "summary": "Conflict coverage should separate verified events, official statements, humanitarian reporting, and disputed claims. Geographic layers must be generalized and dated.",
+      "center": [
+        31.7,
+        34.8
+      ],
+      "zoom": 7,
+      "lastReviewed": "2026-11-06",
+      "sourceStatus": "Editorial seed content",
+      "areas": [
+        {
+          "id": "ig-context",
+          "name": "Regional context",
+          "kind": "context",
+          "description": "Illustrative regional context only; not a boundary or control assessment.",
+          "coordinates": [
+            [
+              33.8,
+              29.4
+            ],
+            [
+              35.9,
+              29.4
+            ],
+            [
+              35.9,
+              33.4
+            ],
+            [
+              33.8,
+              33.4
+            ]
+          ]
+        }
+      ],
+      "markers": []
+    },
+    {
+      "id": "sudan",
+      "name": "Sudan",
+      "region": "Northeast Africa",
+      "type": "Civil war",
+      "status": "Active",
+      "summary": "A complex civil war with severe humanitarian consequences. Attribute claims carefully and distinguish access constraints from absence of events.",
+      "center": [
+        15.5,
+        30.5
+      ],
+      "zoom": 5,
+      "lastReviewed": "2026-11-06",
+      "sourceStatus": "Editorial seed content",
+      "areas": [],
+      "markers": []
+    },
+    {
+      "id": "myanmar",
+      "name": "Myanmar",
+      "region": "Southeast Asia",
+      "type": "Civil war",
+      "status": "Active",
+      "summary": "A multi-actor conflict with geographically varied dynamics. Public summaries should identify the reporting period and the limitations of available evidence.",
+      "center": [
+        19.2,
+        96.0
+      ],
+      "zoom": 5,
+      "lastReviewed": "2026-11-06",
+      "sourceStatus": "Editorial seed content",
+      "areas": [],
+      "markers": []
+    },
+    {
+      "id": "central-sahel",
+      "name": "Central Sahel",
+      "region": "West Africa",
+      "type": "Regional insurgencies",
+      "status": "Active",
+      "summary": "A regional set of armed conflicts. Coverage should avoid collapsing separate national and local dynamics into a single frontline narrative.",
+      "center": [
+        15.0,
+        1.0
+      ],
+      "zoom": 4,
+      "lastReviewed": "2026-11-06",
+      "sourceStatus": "Editorial seed content",
+      "areas": [],
+      "markers": []
+    }
+  ],
+  "reports": [
+    {
+      "id": "demo-editorial-001",
+      "conflictId": "ukraine",
+      "title": "How to read this conflict map",
+      "summary": "This entry demonstrates the report format. It is not a current battlefield event or a claim about territorial control.",
+      "body": "A publishable report should identify the reporting period, cite the original source, explain corroboration, and state what remains unknown. Avoid treating a single social-media post or official statement as independently verified fact.",
+      "publishedAt": "2026-11-06T12:00:00Z",
+      "sourceName": "Frontline Intelligence editorial team",
+      "sourceUrl": "",
+      "confidence": "Illustrative",
+      "status": "published",
+      "tags": [
+        "methodology",
+        "map guide"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "src-001",
+      "name": "UN Office for the Coordination of Humanitarian Affairs",
+      "url": "https://www.unocha.org/",
+      "type": "Humanitarian reporting",
+      "notes": "Use for humanitarian situation reporting; verify individual publication dates and geography."
+    },
+    {
+      "id": "src-002",
+      "name": "UNHCR",
+      "url": "https://www.unhcr.org/",
+      "type": "Displacement data",
+      "notes": "Use for refugee and displacement context; check reporting period and methodology."
+    },
+    {
+      "id": "src-003",
+      "name": "International Committee of the Red Cross",
+      "url": "https://www.icrc.org/",
+      "type": "Humanitarian and legal context",
+      "notes": "Use for humanitarian consequences and international humanitarian law context."
+    },
+    {
+      "id": "src-004",
+      "name": "ACLED",
+      "url": "https://acleddata.com/",
+      "type": "Conflict event data",
+      "notes": "Review licensing, methodology, and redistribution terms before integrating datasets."
+    }
+  ],
+  "snapshots": [
+    {
+      "id": "snapshot-demo-001",
+      "conflictId": "ukraine",
+      "date": "2026-11-06",
+      "label": "Demonstration baseline",
+      "note": "No verified territorial snapshot is included. This is a placeholder for a reviewed historical layer.",
+      "features": []
+    }
+  ],
+  "settings": {
+    "siteName": "FRONTLINE INTELLIGENCE",
+    "edition": "Public-source conflict monitor",
+    "disclaimer": "This platform is an independent public-information research product. It is not an operational map, does not provide live tactical intelligence, and does not establish safe routes or current unit locations."
+  }
+}
